@@ -1,14 +1,21 @@
-# Halo semua! 
 
-Perkenalkan nama saya **Amat King**.<br>
+<p>
+  <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  <br><br> -->
+  <samp>
+    Hello, I'm <a href="https://github.com/amatking">Amat</a> working at <a href="#">@Nutanix </a>.Interested in learning and exploring more about FrontEnd Development. 
+  </samp>
+</p>
 
-Saya seorang **Frontend Developer** di [Dicoding](https://www.dicoding.com/).<br>
+### Connect with me :smiley:
+<a href="#">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/akmalryandi/">
+  <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<br/><br/>
 
-Saya bertanggung jawab pada kualitas materi WEB dengan dibekali [sertifikasi dari University of Muhammadiyah Malang](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
-
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akmalryandi/)ku ya.
 
 ### Github Statistic
 <p align="left">
