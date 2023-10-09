@@ -10,6 +10,14 @@ Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/akmalryandi/)ku ya.
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/amatking">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amatking&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amatking&layout=compact&theme=algolia"/> -->
+</a>
+</p>
+
 <!--
 ### Hi there 👋
 
